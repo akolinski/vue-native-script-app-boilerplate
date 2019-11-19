@@ -1,6 +1,6 @@
 <template>
     <view class="header">
-       <text class="title">{{ title }}</text>
+        <text class="title">{{ title }}</text>
     </view>
 </template>
 

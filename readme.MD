@@ -12,7 +12,7 @@ You can all type <code>npm start</code> and then type <code>i</code> to emulate 
 
 ## Training 
 
-I followed this video - https://www.youtube.com/watch?v=05LZ6-_FZj8&t=930s
+I followed this video - https://www.youtube.com/watch?v=05LZ6-_FZj8&t=930s repo - https://github.com/TylerPottsDev/vue-native-todo-app
 
 ## Troubleshooting 
 
