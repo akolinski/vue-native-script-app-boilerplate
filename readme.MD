@@ -12,6 +12,8 @@ In order to start building an app inside the directory you need to run <code>vue
 
 Now we can start building our app. 
 
+Make sure you have Xcode on your mac installed and updated to the latest version through the AppStore.
+
 Start running that app by running a <code>npm start</code>
 
 Carry on watching the video at the top from: 8 minutes onwards
