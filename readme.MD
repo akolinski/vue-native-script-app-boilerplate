@@ -23,6 +23,6 @@ Need to have expo cli installed - https://docs.expo.io/versions/latest/workflow/
 
 Need vue native installed https://vue-native.io/docs/installation.html <code>npm install --global vue-native-cli</code>
 
-In order to start building an app inside the directory you are you need to run <code>vue-native init project_name</code>
+In order to start building an app inside the directory you need to run <code>vue-native init project_name</code>
 
 Make sure you have xCode on your mac installed and updated to the latest version through the AppStore.
