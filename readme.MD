@@ -8,6 +8,7 @@ cd into the apps folder and run <code>npm install</code> and then <code>npm star
 Sign into your expo account via terminal. 
 Please install the expo app on your phones app store.
 Then you scan the QR code in terminal and emulate the app on your phone for development. 
+You can all type <code>npm start</code> and then type <code>i</code> to emulate the app in an iOS device.
 
 ## Training 
 
