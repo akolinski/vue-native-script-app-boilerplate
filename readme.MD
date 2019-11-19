@@ -1,19 +1,25 @@
-First watched this video - https://www.youtube.com/watch?v=05LZ6-_FZj8&t=930s
+# Introduction 
 
-Node version 10 or above <code>node -v</code>
+A Vue native script todo app. Boilerplate for app creations.
+
+## Set up
+
+cd into the apps folder and run <code>npm install</code> and then <code>npm start</code> the emulator will not run unless you have downloaded and install https://developer.apple.com/xcode/download/.
+
+## Training 
+
+I followed this video - https://www.youtube.com/watch?v=05LZ6-_FZj8&t=930s
+
+## Troubleshooting 
+
+Things you may need to do.
+
+Need node version 10 or above <code>node -v</code>
 
 Need to have expo cli installed - https://docs.expo.io/versions/latest/workflow/expo-cli/
 
-Then we need to install - https://vue-native.io/docs/installation.html
+Need vue native installed https://vue-native.io/docs/installation.html <code>npm install --global vue-native-cli</code>
 
-<code>npm install --global vue-native-cli</code>
+In order to start building an app inside the directory you are you need to run <code>vue-native init project_name</code>
 
-In order to start building an app inside the directory you need to run <code>vue-native init vue-native-script-app</code>
-
-Now we can start building our app. 
-
-Make sure you have Xcode on your mac installed and updated to the latest version through the AppStore.
-
-Start running that app by running a <code>npm start</code>
-
-Carry on watching the video at the top from: 8 minutes onwards
+Make sure you have xCode on your mac installed and updated to the latest version through the AppStore.
