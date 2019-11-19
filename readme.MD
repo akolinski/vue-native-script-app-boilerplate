@@ -4,7 +4,10 @@ A Vue native script todo app. Boilerplate for app creations.
 
 ## Set up
 
-cd into the apps folder and run <code>npm install</code> and then <code>npm start</code> the emulator will not run unless you have downloaded and install https://developer.apple.com/xcode/download/.
+cd into the apps folder and run <code>npm install</code> and then <code>npm start</code> the emulator will not run unless you have downloaded and installed https://developer.apple.com/xcode/download/.
+Sign into your expo account via terminal. 
+Please install the expo app on your phones app store.
+Then you scan the QR code in terminal and emulate the app on your phone for development. 
 
 ## Training 
 
